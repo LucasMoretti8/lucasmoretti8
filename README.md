@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.icons8.com/color/96/000000/python.png"/>
+<img src="https://img.icons8.com/doodle/96/000000/console--v2.png"/>
