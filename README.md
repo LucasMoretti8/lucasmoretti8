@@ -8,5 +8,6 @@ A.K.A. Vyper
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoretti8&layout=compact&langs_count=16&theme=great-gatsby" />
 </div>
 
+Learn, enjoy, and HACK THE PLANET!
 ![Alt Text](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif)
 
