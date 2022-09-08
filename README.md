@@ -1,7 +1,5 @@
 A.K.A. Vyper
 
-![alt text](https://s2.dmcdn.net/v/Pkhqx1Sdu3QP72PI6/x1080)
-
 - 🔭 I’m currently working as a Senior Cybersecurity Consultant/Pentester.
 - 👯 I’m looking to collaborate on security research and open source projects;
 
