@@ -1,7 +1,9 @@
 A.K.A. Vyper
 
-- 🔭 I’m currently working as a Senior Cybersecurity Consultant/Pentester.
-- 👯 I’m looking to collaborate on security research and open source projects;
+> Ethical Hacker     |
+> Penetration Tester |
+> Bug Bounty Hunter  |
+> Red Teamer         |
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmoretti8&show_icons=true&theme=great-gatsby" />
