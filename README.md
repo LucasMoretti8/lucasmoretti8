@@ -1,9 +1,10 @@
 A.K.A. Vyper
 
-> Ethical Hacker     |
+> Red Teamer         |
 > Pentester |
 > Bug Hunter  |
-> Red Teamer         |
+> Ethical Hacker     |
+
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmoretti8&show_icons=true&theme=great-gatsby" />
