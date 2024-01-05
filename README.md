@@ -1,8 +1,8 @@
 A.K.A. Vyper
 
 > Ethical Hacker     |
-> Penetration Tester |
-> Bug Bounty Hunter  |
+> Penetester |
+> Bug Hunter  |
 > Red Teamer         |
 
 <div>
