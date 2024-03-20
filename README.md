@@ -4,6 +4,8 @@ A.K.A. Vyper
 > Pentester |
 > Bug Hunter  |
 > Ethical Hacker     |
+> Netrunner     |
+
 
 
 <div>
