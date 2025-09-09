@@ -6,5 +6,5 @@ Senior Cybersecurity Analyst | Cyber ​​Defense | Blue Team | CloudSec | Thre
 </div>
 
 “We are no longer securing just computers, we are securing the society.” — Mikko Hyppönen
-![Alt Text](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgwOXpkdTU0ZGtlY2ZmYnkxYWp5azk1MWl6MTQ2Mm1sZzZ0eW16bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif)
+
 
